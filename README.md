@@ -1,1 +1,1 @@
-Yet another markup language, just for self-learning purposes.
+Yet another html-targeted markup language, just for self-learning purposes.
